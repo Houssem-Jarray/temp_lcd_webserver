@@ -31,4 +31,4 @@ Access the webpage by visiting http://<raspberry_pi_ip>:8080 in your browser.
 
 ### Image of the Setup
 
-![Toggle Button Setup](capture/i2c.jpg)
+![Toggle Button Setup](picture/i2c.jpg)
